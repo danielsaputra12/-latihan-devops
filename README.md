@@ -1,1 +1,1 @@
-# -latihan-devops
+"Halo, saya sedang belajar DevOps!"
